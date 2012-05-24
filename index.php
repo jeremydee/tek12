@@ -1,1 +1,1 @@
-<?php echo "Hello Liz"; ?>
+<?php echo "Hello Liz, we invite you to MKEPUG September 11th - Jeremy"; ?>
